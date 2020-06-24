@@ -1,2 +1,2 @@
 # Daily-file
-Some file for sharing
+Some files for sharing
